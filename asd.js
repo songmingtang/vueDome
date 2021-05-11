@@ -8,3 +8,4 @@ alert("5555")
 alert("66661111")
 var asd = "00000"
 var erv = "6789"
+ass
